@@ -1,5 +1,5 @@
 - 👋 Hi, I’m: @SebastianKey2Quality
-- 👀 I’m interested in: Project Management, SCRUM, Agile and Business development
+- 👀 I’m interested in: Software Development, Quality Assurance, Project Management, SCRUM, Agile, programming and Business development
 - 🌱 I’m currently learning: PM, SCRUM on a deeper level and everything about new people. 
 - 💞️ I’m looking to collaborate on: Open Source projects within the Cardano Communit
 - 📫 How to reach me: sebastian@key2quality.dk
